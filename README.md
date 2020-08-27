@@ -1,3 +1,3 @@
 # C-and-DataStructures
 
-Data Structures templates in C and practical exercises using it.
+Data Structures templates in C and practical exercises.
